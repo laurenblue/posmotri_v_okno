@@ -14,7 +14,7 @@ html {
   block-size: 100%;
   margin: auto;
   color: #fff;
-  font-family: 'Fira Sans Condensed', sans-serif;
+  font-family: "Fira Sans Condensed", sans-serif;
   font-size: 18px;
   background-color: #1b1919;
 }
@@ -289,4 +289,3 @@ ol {
 .content__card-link:focus-visible {
   outline: 1px solid #fff;
 }
-/*123456789*/
